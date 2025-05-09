@@ -18,3 +18,11 @@ The **Student Records Management System** is a relational database designed to e
 1. Clone the repository (or download the SQL file).
    ```bash
    git clone https://github.com/your-repo/student-records-db.git
+
+##Entity Relationship Diagram (ERD)
+ERD
+files uploaded
+Author
+Developed by Victor Hillan Muthomi.
+email: victorhillan007@gmail.com/ sc2123233/2023
+
